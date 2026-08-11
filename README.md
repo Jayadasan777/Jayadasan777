@@ -1,6 +1,6 @@
 # Hey 👋, I'm Jayadasan Suresh
 
-**Computer Science Engineering Student | Cloud & DevOps Enthusiast | Full-Stack & AI Developer**
+**Computer Science Engineering Student | Cloud Enthusiast | AI Developer**
 
 ---
 
