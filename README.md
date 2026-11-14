@@ -33,9 +33,6 @@ AI + Cloud + Automation.
 💼 Former Web Integration Engineer Intern at
 Raysoft Infotech Private Limited
 
-🎥 I run a YouTube channel, **Retailers Investor's Voice**, on stock market
-education for Indian retail investors
-
 📍 Tamil Nadu, India
 
 ---
