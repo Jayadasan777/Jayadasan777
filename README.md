@@ -2,9 +2,9 @@
 
 ### 💻 Computer Science Engineering Student | AI Engineer | Software Developer | Cloud Enthusiast
 
-I'm a Computer Science Engineering student passionate about building
-AI-powered applications, automation systems, cloud solutions, and
-scalable software.
+I'm a final-year Computer Science Engineering student aspiring to build a
+career in **Cloud Engineering**. I'm passionate about building AI-powered
+applications, automation systems, cloud solutions, and scalable software.
 
 I enjoy turning ideas into working systems — from AI pipelines and
 RAG applications to cloud-integrated automation platforms.
@@ -14,13 +14,14 @@ RAG applications to cloud-integrated automation platforms.
 ## 👨‍💻 About Me
 
 🎓 B.E. Computer Science and Engineering student at
-St Joseph's Institute of Technology
+St Joseph's Institute of Technology (2023 – 2027)
 
 💡 Interested in:
 - Artificial Intelligence & Generative AI
 - LLM Applications & RAG
+- Cloud Engineering & AWS
+- DevOps & CI/CD Automation
 - Software Development
-- Cloud Computing & AWS
 - Automation & Workflow Engineering
 - Data Structures & Algorithms
 
@@ -31,6 +32,9 @@ AI + Cloud + Automation.
 
 💼 Former Web Integration Engineer Intern at
 Raysoft Infotech Private Limited
+
+🎥 I run a YouTube channel, **Retailers Investor's Voice**, on stock market
+education for Indian retail investors
 
 📍 Tamil Nadu, India
 
@@ -43,6 +47,7 @@ Raysoft Infotech Private Limited
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -52,26 +57,37 @@ Raysoft Infotech Private Limited
 <p>
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-0A7E8C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
 </p>
 
 **AI Technologies:**
-- Llama 3.1
+- Llama 3.1 (via Groq)
+- Google Gemini
 - GPT
 - Claude
 - Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- LangGraph
 - Prompt Engineering
 - AI Automation
 - LLM-powered applications
+
+**Backend & APIs:**
+- FastAPI
+- REST APIs
+- Streamlit
 
 ### ☁️ Cloud & DevOps
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 **AWS:**
@@ -80,6 +96,8 @@ Raysoft Infotech Private Limited
 - IAM
 - RDS
 - VPC
+- CloudWatch (Logs & Alarms)
+- CloudTrail
 
 ### ⚙️ Automation
 
@@ -93,9 +111,14 @@ Raysoft Infotech Private Limited
 ### 🗄️ Databases
 
 <p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
+**Vector Databases:**
+- pgvector
+- ChromaDB
 
 ### 🧠 Core Computer Science
 
@@ -109,9 +132,27 @@ Raysoft Infotech Private Limited
 
 # 🚀 Featured Projects
 
-## 🤖 NISE — Autonomous AI News Intelligence & Synthesis Engine
+## 🤖 AURA — Adaptive Unified Reasoning Assistant
+
+A secure, modular AI assistant architecture built around governed agent behavior.
+
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `AWS EC2` `Docker`
+
+### Key Features
+
+- Conversational context, persistent memory, and document-grounded retrieval
+- Governed tool-execution workflow with policy-based authorization
+- Permission checks and human approval checkpoints
+- Action-result verification for better control and reliability
+- Stateful agent orchestration using LangGraph
+
+---
+
+## 🤖 NISE — News Intelligence & Synthesis Engine
 
 An AI-powered news intelligence and social media automation pipeline.
+
+`Llama 3.1` `Groq` `MongoDB` `RSS` `Make.com` `Pollinations FLUX` `CloudWatch`
 
 ### What it does
 
@@ -122,9 +163,9 @@ An AI-powered news intelligence and social media automation pipeline.
 - Generates hashtags and AI images
 - Automates Facebook publishing
 - Uses Make.com webhooks and automated retry mechanisms
-- Implements hybrid article clustering using:
-  - Jaccard Index
-  - TF-IDF Cosine Similarity
+- Implements two-stage event clustering using:
+  - Jaccard similarity
+  - Character n-gram cosine similarity
 
 ### Results
 
@@ -132,7 +173,22 @@ An AI-powered news intelligence and social media automation pipeline.
 
 🎯 Achieved **97.78% clustering accuracy**
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Jayadasan777/NEWS-AI-AGGREGATOR)
+
+---
+
+## 📄 Document Intelligence RAG System
+
+A document question-answering system grounded in retrieved evidence.
+
+`Python` `FastAPI` `ChromaDB` `Gemini` `Streamlit` `AWS S3` `EC2`
+
+### Key Features
+
+- PDF ingestion with text extraction, chunking, and embedding generation
+- Vector indexing and semantic similarity search in ChromaDB
+- Gemini-powered grounded question answering with retrieved context
+- FastAPI backend with a Streamlit interface
 
 ---
 
@@ -151,8 +207,6 @@ simulated IoT endpoints.
 - Distributed environment simulation
 - Baseline scaling logic
 - Cloud-integrated architecture
-
-🔗 [View Project](#)
 
 ---
 
@@ -196,6 +250,7 @@ citizen grievances related to civic amenities.
 - ☁️ AWS Academy Cloud Foundations
 - 📊 Microsoft Certified: Fabric Analytics Engineer Associate
 - 🗄️ DBMS – NPTEL
+- 🌐 Demystifying Networking – NPTEL
 - 🐧 Linux Unhatched – Cisco Networking Academy
 
 ---
@@ -230,3 +285,4 @@ AWS & Cloud Architecture
 DevOps
    ↓
 System Design
+```
